@@ -1,4 +1,17 @@
 # 장문경 [Jang Moon Kyung]
+## Profile
+세종대 컴퓨터공학과 재학중 (2016년 3월 ~현재) \
+세종대학교 봉사 서포터즈 세종나누리 단원(10기~12기 2017년 8월~ 2018년 12월)\
+
+## Awards
+2019 스마트 관광앱 개발 공모전 노력상 수상 \
+2017 세종 KB창의나눔봉사대회 우수상 수상
+
+## Skill 
+-Html,css,Java script,Jqueary\
+-JAVA - JSP -Spring legacy -RestFul API\
+-Python - turtle library
+
 
 ## Project Introduce
 ### 개인 프로젝트
