@@ -10,9 +10,9 @@
 ## Skill 
 -Html,css,Java script,Jqueary\
 -JAVA - JSP -Spring legacy -RestFul API\
--Python - turtle library
--nodejs
--firebase
+-Python - turtle library\
+-nodejs\
+-firebase\
 
 ## Project Introduce
 ### 개인 프로젝트
