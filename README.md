@@ -44,6 +44,11 @@ https://github.com/moonk1212/spring_basic2
 부족한 것 같아 만들었음
 https://github.com/moonk1212/cycle_storage
 
+#### -SMCapstone
+옷을 살때 내 사이즈가 S 인지 M인지 헷갈릴때 내사이즈를 입력하면 사이즈를 자동으로 추천해주는\
+웹페이지\ 
+https://github.com/moonk1212/SMCapstone
+
 ### 팀 프로젝트
 #### 2019 스마트 관광앱 개발 공모전에서 RestfulAPI기능을 통해 일부분 백기능 만들기 :smart_tourism_schedule
 rest api를 만들어 react.js와 연결 시켜서 앱을 만들려고함. 하지만 앱에는 api를 적용을 못시킴.\
