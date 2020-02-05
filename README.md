@@ -13,7 +13,7 @@
 -JAVA - JSP -Spring legacy -RestFul API\
 -Python - turtle library\
 -nodejs\
--firebase\
+-firebase
 
 ## Project Introduce
 ### 개인 프로젝트
