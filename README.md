@@ -55,3 +55,9 @@ https://github.com/moonk1212/SMCapstone
 rest api를 만들어 react.js와 연결 시켜서 앱을 만들려고함. 하지만 앱에는 api를 적용을 못시킴.\
 rest api를 만들면서 개발해본 방식이 신기했음 ( 기초 단계)\
 https://github.com/moonk1212/smart_tourism_schedule
+
+#### 2020 kpmg 아이디어톤 
+
+Dash cam using Cloud solutions and deep learning-based recording system
+
+https://github.com/reyeon1209/KPMG_Ideathon
