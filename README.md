@@ -6,7 +6,8 @@
 
 ## Awards
 2019 스마트 관광앱 개발 공모전 노력상 수상 \
-2017 세종 KB창의나눔봉사대회 우수상 수상
+2017 세종 KB창의나눔봉사대회 우수상 수상 \
+2020년 제8회 세종대학교 SW·AI 해커톤 장려상 수상
 
 ## Skill 
 -Html,css,Java script,Jqueary\
@@ -61,3 +62,18 @@ https://github.com/moonk1212/smart_tourism_schedule
 Dash cam using Cloud solutions and deep learning-based recording system
 
 https://github.com/reyeon1209/KPMG_Ideathon
+
+#### 2020년 제8회 세종대학교 SW·AI 해커톤 감동란팀
+
+
+기획 배경: 현대인들은 영양소의 불균형을 겪고있고, 자신의 영양상태를 잘 알지 못한다.\ 
+
+알먹만의 차별점\ 
+
+식당의 메뉴 섭취 전 후의 영양소 변화를 보여줌으로써 사용자가 건강한 식단을 스스로 구성하도록 도움\
+
+메뉴 추천에 그치는 것이 아닌, 사용자의 위치를 기반으로 그 메뉴를 판매하는 가까운 식당을 보여줌\
+
+식품영양데이터베이스를 이용한 정확성 확보\
+
+https://github.com/kamdong-sejong/sejongAIHackerthon-kamdongran
