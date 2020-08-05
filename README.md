@@ -51,6 +51,29 @@ https://github.com/moonk1212/cycle_storage
 웹페이지 \ 
 https://github.com/moonk1212/SMCapstone
 
+#### -nodejs_crawling
+##### 마스크사이트 크롤링 하기  - nodejs사용
+
+- npm i cheerio-httpcli
+
+- let url = 'https://smartstore.naver.com/dkpharm_naturesvitamin/category/ebc4bcef2a0f46bca28e03e81d0d1cfa?cp=1' 
+
+- 품절 여부만 알려줍니다. 
+
+- 안에있는 내용 응용시 다른 값들 가져오기도 가능합니다. 
+
+- 코드 링크 : [https://github.com/moonk1212/nodejs_crawling/blob/master/js/maskcrawl1.js]
+
+##### 로또 최신번호 알려주기
+
+- npm i cheerio-httpcli
+
+- 여기서 나온 정보를 정제해서 로또번호추첨사이트를 만들수 있습니다.
+
+- 코드 링크 [https://github.com/moonk1212/nodejs_crawling/blob/master/js/latest_lotto.js]
+
+https://github.com/moonk1212/nodejs_crawling
+
 ### 팀 프로젝트
 #### 2019 스마트 관광앱 개발 공모전에서 RestfulAPI기능을 통해 일부분 백기능 만들기 :smart_tourism_schedule
 rest api를 만들어 react.js와 연결 시켜서 앱을 만들려고함. 하지만 앱에는 api를 적용을 못시킴.\
