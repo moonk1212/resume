@@ -1,4 +1,8 @@
 # 장문경 [Jang Moon Kyung]
+## Introduction
+![status](https://github-readme-stats.vercel.app/api?username=moonk1212&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonk1212&layout=compact&count_private=true)
+
 ## Profile
 세종대 컴퓨터공학과 재학중 (2016년 3월 - 현재) \
 세종대학교 봉사 서포터즈 세종나누리 단원(10,11,12기 2017년 8월 - 2018년 12월)\
