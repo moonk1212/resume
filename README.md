@@ -121,3 +121,8 @@ https://github.com/reyeon1209/KPMG_Ideathon
 식품영양데이터베이스를 이용한 정확성 확보\
 
 https://github.com/kamdong-sejong/sejongAIHackerthon-kamdongran
+
+#### 누구나 골목 프로젝트
+- 사업소개 화양리 골목에 위치한 상점들의 유휴 시간을 이용해 공간 대여 서비스를 제공함으로써, 골목 상권을 살리면서 광진구 주민들의 커뮤니티를 활성화 시키는 것이 목적인 비영리 사업입니다.
+-  www.nugunagolmok.com 데모사이트
+https://github.com/moonk1212/modutable
