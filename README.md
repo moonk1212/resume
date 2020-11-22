@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 2020년 제8회 세종대학교 SW·AI 해커톤 장려상 수상
 
 ## Skill 
--Html,css,Java script,Jqueary\
+-Html,css,Java script,Jquery\
 -JAVA - JSP -Spring legacy -RestFul API\
 -Python - turtle library\
 -nodejs\
