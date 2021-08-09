@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 -JAVA - JSP -Spring legacy -RestFul API\
 -Python - turtle library\
 -nodejs\
--firebase
+-firebase, AWS EC2
+
+-네이버클라우드플랫폼(일반존, 금융존, 공공존) 여러 상품 
+
 
 ## Project Introduce
 ### 개인 프로젝트
