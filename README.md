@@ -130,3 +130,5 @@ https://github.com/moonk1212/modutable
 
 #### Cocktail-MBTI 
 - MBTI를 이용하여 칵테일 추천 서비스를 만듬 
+- https://cocktail-mbti.com/ 데모사이트 
+- https://github.com/Public-Luna/Cocktail-MBTI
