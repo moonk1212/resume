@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 세종대 컴퓨터공학과 재학중 (2016년 3월 - 현재) \
 세종대학교 봉사 서포터즈 세종나누리 단원(10,11,12기 2017년 8월 - 2018년 12월)\
 (주) 보바 백엔드서버개발부서 인턴1팀  (2019년 12월 ~ 2020 1월) ,(2020년 6월 ~ 2020년 8월) \
+(주) 쌍용정보통신 SRE팀 (2021년 4월 ~ 2022년 3월) \
+티맥스 클라우드 CK2-2팀 (2022년 4월 ~ ) 
 
 
 ## Awards
@@ -36,7 +38,7 @@ Here are some ideas to get you started:
 -JAVA - JSP -Spring legacy -RestFul API\
 -Python - turtle library\
 -nodejs\
--firebase, AWS EC2
+-firebase, AWS EC2\
 
 -네이버클라우드플랫폼(일반존, 금융존, 공공존) 여러 상품 
 
